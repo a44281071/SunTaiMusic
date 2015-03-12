@@ -10,7 +10,8 @@ namespace Test
         static void Main(string[] args)
         {
 
-            PlayerLibrary_Test.LoadLrcInfo();
+            PlayerLibrary_Test.LoadLrcListingInfo();
+            //PlayerLibrary_Test.LoadLrcInfo();
 
             //PlayerLibrary_Test.LoadLrc();
 
